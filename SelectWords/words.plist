@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>apple</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pear</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>orange</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>banana</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>peach</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>lemon</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>mango</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>grape</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>papaya</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>pineapple</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>watermelon</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>strawberry</string>
+	</dict>
+</array>
+</plist>
